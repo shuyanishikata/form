@@ -1,0 +1,4 @@
+s /d@a /s
+a /s@acc /d
+a /s@acc /d
+a /s@acc /d
